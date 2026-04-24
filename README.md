@@ -16,8 +16,8 @@ This project is a high-performance car parking space detection and monitoring sy
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/harshbafnaa/car-parking-detection.git
-   cd car-parking-detection
+   git clone https://https://github.com/MsShivi214/SmartParkAI
+   cd SmartParkAI
    ```
 
 2. **Install dependencies**:
